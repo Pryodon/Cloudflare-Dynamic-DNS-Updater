@@ -5,7 +5,7 @@ If you have your own domain name, you can use Cloudflare's free services to get 
 This script updates your current dynamic IP address in your DNS records which you have hosted at Cloudflare. If you want, you can also proxy your website through Cloudflare's proxy to hide your home IP address. 
 
 
-**Cloudflare Dynamic DNS Update PHP script**  *
+**Cloudflare Dynamic DNS Update PHP script**
 
 
 **WHAT THIS DOES**
