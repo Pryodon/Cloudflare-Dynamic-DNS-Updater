@@ -9,7 +9,7 @@ This script updates your current dynamic IP address in your DNS records which yo
 
 
 **WHAT THIS DOES**
-- This PHP script updates your domain name's DNS to point to your home IP address.
+- This PHP script updates your domain name's DNS to point to your home dynamic IP address.
 
 - Example: If your home IP address is: 8.8.8.8... Then in the DNS, host.example.com will point to 8.8.8.8
 
