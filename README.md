@@ -35,7 +35,7 @@ This script updates your current dynamic IP address in your DNS records which yo
 - Runs great on a small always-on Linux box (e.g., [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)).<br/>
 
 
-**License**
+**LICENSE**
 
 This project is dedicated to the public domain via **CC0 1.0 Universal**  
 SPDX: `CC0-1.0` (see `LICENSE`)
