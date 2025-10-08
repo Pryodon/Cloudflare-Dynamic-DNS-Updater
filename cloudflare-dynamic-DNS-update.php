@@ -31,6 +31,25 @@ TYPICAL HOST
 Runs great on a small always-on Linux box (e.g., Raspberry Pi 5).
 https://www.raspberrypi.com/products/raspberry-pi-5/
 
+
+LICENSE
+
+This project is dedicated to the public domain via CC0 1.0 Universal
+SPDX: `CC0-1.0` (see `LICENSE`)
+
+See the full public domain license for this script here:
+https://github.com/Pryodon/Cloudflare-Dynamic-DNS-Updater/blob/main/LICENSE.md
+
+Warranty Disclaimer
+
+This software is provided **“AS IS”**, **without warranty of any kind**, 
+express or implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and noninfringement. In no event shall the authors
+be liable for any claim, damages or other liability, whether in an action of contract,
+tort or otherwise, arising from, out of or in connection with the software or the use
+or other dealings in the software.
+
+
 SETUP (Debian/Ubuntu examples)
 
 1) Install prerequisites
